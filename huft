@@ -512,7 +512,7 @@ https://gatotkaca007.serv00.net/red/play.mpd?id=6299&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://gatotkaca007.serv00.net/red/play.mpd?id=6317&type=dash
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS TV 1
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -520,7 +520,7 @@ https://gatotkaca007.serv00.net/red/play.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6685&type=drm
 https://gatotkaca007.serv00.net/red/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS TV 2
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -528,7 +528,7 @@ https://gatotkaca007.serv00.net/red/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6686&type=drm
 https://gatotkaca007.serv00.net/red/play.mpd?id=6686&type=dash
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS TV 3
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -536,7 +536,7 @@ https://gatotkaca007.serv00.net/red/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6786&type=drm
 https://gatotkaca007.serv00.net/red/play.mpd?id=6786&type=dash
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS TV 5
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -544,7 +544,7 @@ https://gatotkaca007.serv00.net/red/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=9182&type=drm
 https://gatotkaca007.serv00.net/red/play.mpd?id=9182&type=dash
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS TV 6
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
