@@ -1121,21 +1121,20 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 
 ---------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://bit.ly/logo-liga-bri" group-title="NASIONAL HD",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
+#EXTINF:-1 tvg-id="SCTVHD.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/290.png" group-title="NASIONAL HD", SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-sctv" group-title="NASIONAL HD",SCTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://gatotkaca007.serv00.net/red/play.m3u8?id=204&type=hls
+#EXTINF:-1 tvg-id="IndosiarHD.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/218.png" group-title="NASIONAL HD", INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:0 tvg-logo="https://images2.imgbox.com/b2/91/HuMZeYcP_o.png" group-title="NASIONAL HD",MOJI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=17637&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://gatotkaca007.serv00.net/red/play.mpd?id=17637&type=dash
+#EXTINF:-1 tvg-logo="https://gaatvplus.000webhostapp.com/Img/moji.png" group-title="NASIONAL HD", MOJI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 ---------------------------------------------------------------
 
