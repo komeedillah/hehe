@@ -1127,14 +1127,15 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-moji" group-title="NASIONAL HD",MOJI
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://gatotkaca007.serv00.net/red/play.m3u8?id=206&type=hls
-
 #EXTINF:0 tvg-logo="https://tinyurl.com/logo-sctv" group-title="NASIONAL HD",SCTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://gatotkaca007.serv00.net/red/play.m3u8?id=204&type=hls
+
+#EXTINF:0 tvg-logo="https://images2.imgbox.com/b2/91/HuMZeYcP_o.png" group-title="NASIONAL HD",MOJI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=17637&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://gatotkaca007.serv00.net/red/play.mpd?id=17637&type=dash
 
 ---------------------------------------------------------------
 
