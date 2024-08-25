@@ -510,60 +510,6 @@ http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="SPORTS ASIA",STAR SPORTS SELECT 2
 http://103.120.172.74:4700
 
----------------------------------------------------------------
-
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-beinsports1" group-title="SPORTS ASIA",BEIN SPORTS 1 INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6299&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://gatotkaca007.serv00.net/red/play.mpd?id=6299&type=dash
-
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-beinsports3" group-title="SPORTS ASIA",BEIN SPORTS 3 INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6317&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://gatotkaca007.serv00.net/red/play.mpd?id=6317&type=dash
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6685&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=6685&type=dash
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6686&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=6686&type=dash
-
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6786&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=6786&type=dash
-
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=9182&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=9182&type=dash
-
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="SPORTS ASIA",CHAMPIONS 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=9183&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=9183&type=dash
-
 ==============================================================================================
 =========================================== SPORTS ===========================================
 ==============================================================================================
