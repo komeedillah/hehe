@@ -287,8 +287,10 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="HIBURAN",BERITA RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="HIBURAN",ASTRO CERIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+https://sooka.openwindow040.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Okey.my" tvg-name="" tvg-logo="https://i.ibb.co/GVBL3s9/okey.png" group-title="HIBURAN", OKEY RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
