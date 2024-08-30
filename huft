@@ -472,22 +472,22 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",TRUE PREMIER FOOTBALL 1
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",TPF 1 AUTO RESOLUTION
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://playidtv24.vercel.app/stream/now/premier1.m3u8
 
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",TRUE PREMIER FOOTBALL 2
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",TPF 2 AUTO RESOLUTION
 https://playidtv24.vercel.app/stream/now/premier2.m3u8
 
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",TRUE PREMIER FOOTBALL 3
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",TPF 3 AUTO RESOLUTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://playidtv24.vercel.app/stream/now/premier3.m3u8
 
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",TRUE PREMIER FOOTBALL 4
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",TPF 4 AUTO RESOLUTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://playidtv24.vercel.app/stream/now/premier4.m3u8
 
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",TRUE PREMIER FOOTBALL 5
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",TPF 5 AUTO RESOLUTION
 #EXTVLCOPT:http-referrer=https://7mthai.net
 #https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
 https://playidtv24.vercel.app/stream/now/premier5.m3u8
@@ -512,19 +512,19 @@ https://media.wacthstream.com/stream_live/608_BEIN2/playlist.m3u8?wmsAuthSign=c2
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/609_BEIN3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113134033true-premier-hd1.png" group-title="SPORTS ASIA",TPF HD 1
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113134033true-premier-hd1.png" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 1
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113134015true-premier-hd2.png" group-title="SPORTS ASIA",TPF HD 2
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113134015true-premier-hd2.png" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 2
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113133956true-premier-hd3.png" group-title="SPORTS ASIA",TPF HD 3
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113133956true-premier-hd3.png" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 3
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113133902true-premier-hd4.png" group-title="SPORTS ASIA",TPF HD 4
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113133902true-premier-hd4.png" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 4
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
