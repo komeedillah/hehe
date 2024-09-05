@@ -558,7 +558,7 @@ https://sooka.openwindow040.workers.dev/https://linearjitp-playback.astro.com.my
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 https://sooka.openwindow040.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SPORTS ASIA" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV 22 SPORT
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SPORTS ASIA" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV 22
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
 
