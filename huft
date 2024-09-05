@@ -532,12 +532,6 @@ http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/59218
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS ASIA",ASTRO SUPERSPORT 4
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/59217
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="SPORTS ASIA",STAR SPORTS SELECT 1
-#http://103.120.172.74:1030
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="SPORTS ASIA",STAR SPORTS SELECT 2
-#http://103.120.172.74:4700
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="SPORTS ASIA",BEIN SPORTS MALAYSIA
