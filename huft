@@ -143,16 +143,17 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|
 #EXTINF:-1 tvg-id="Entertainment - [Channel 86].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png" group-title="HIBURAN",ENT
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" group-title="HIBURAN",KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
-https://dsgtq5sngxkde.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png" group-title="HIBURAN",KIDS TV
+https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 tvg-id="Okezone TV - [Channel 90].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Okezone_%282007%29.png" group-title="HIBURAN",OKEZONE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
-https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/643/643-LOGO-m.png" group-title="HIBURAN",OKEZONE TV
+https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png/revision/latest?cb=20210330144812" tvg-id="Music TV - [Channel 111].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="HIBURAN" ,MUSIC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -166,10 +167,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash_vmx/MusicChan
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
-#EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png" group-title="HIBURAN",VISION PRIME
-https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="HIBURAN",VISION PRIME
+https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 ---------------------------------------------------------------
 
