@@ -1495,8 +1495,11 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manife
 
 ---------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="LIVE EVENT", OPTUS SPORT LIVE 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT",OPTUS SPORT LIVE 1
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
+#http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT",OPTUS SPORT LIVE  3
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
