@@ -428,6 +428,16 @@ https://chiva.my.id/sc/avid/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=9183&type=drm 
 https://chiva.my.id/sc/avid/play.mpd?id=9183&type=dash
 
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", BRI LIGA 1 LIVE INDOSIAR 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=205&type=drm 
+https://chiva.my.id/sc/avid/play.mpd?id=205&type=dash
+
 ---------------------------------------------------------------
 
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SPORTS ASIA",TVRI SPORT
