@@ -69,13 +69,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-H
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/932/49932-SNAPSHOT-m.png" group-title="NASIONAL",TV9 NUSANTARA
 https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/984/49984-SNAPSHOT-m.png" group-title="NASIONAL",JTV
-https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="SCTVHD.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/290.png" group-title="NASIONAL", SCTV
