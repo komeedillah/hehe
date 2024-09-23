@@ -129,6 +129,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="NASIONAL",JTV
+https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
+
 ===============================================================================================
 =========================================== HIBURAN ===========================================
 ===============================================================================================
@@ -232,9 +235,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/747/476/png-clipart-tv9-nusantara-television-channel-streaming-media-others-miscellaneous-television.png" tvg-name="TV9" group-title="HIBURAN",TV9 NUSANTARA
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="HIBURAN",JTV
-https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3zB0gVk/madinahlive.png" group-title="HIBURAN", LIVE MADINAH
@@ -260,10 +260,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv.mayvee.workers.dev/license-proxy-widevine/cenc/?specConform=true 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
-
-#EXTINF:-1 group-title="HIBURAN" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VIVA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
 
 ---------------------------------------------------------------
 
