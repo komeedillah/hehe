@@ -406,15 +406,15 @@ https://chiva.my.id/sc/avid/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=6786&type=drm 
 https://chiva.my.id/sc/avid/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9LJj5XKhpuoD9Aa1ud963OLVYRuOJuM8Tfe1aKnf235nQHAhs0-2zjE&s=10"
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTyOVwGj8pq2XggED_1ALNbfyacNLf1GEoYw&usqp=CAU", BRI LIGA 1 LIVE INDOSIAR 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="SPORTS ASIA", INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=205&type=drm 
-https://chiva.my.id/sc/avid/play.mpd?id=205&type=dash
+https://chiva.my.id/sc/avid/play.m3u8?id=205&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/SAhIPX5A-hnhWzGWzUh937X95AY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="SPORTS ASIA",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=206&type=hls
 
 ---------------------------------------------------------------
 
