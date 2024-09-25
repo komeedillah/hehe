@@ -537,10 +537,6 @@ https://playidtv24.vercel.app/stream/now/premier5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath TV.th" tvg-name="THAIRATH" group-title="SPORTS ASIA" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/131_y_3DPNEFWTadeZ6Jsl9AI10RXbcCkwj7ym.png",THAIRATH 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/manifest.m3u8
-
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOz8mqNUNDaDC4qeWdvSe8GhPmoGDKNE1igA&usqp=CAU" group-title="SPORTS ASIA",TRUE PREMIER FOOTBALL 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
