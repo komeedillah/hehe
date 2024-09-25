@@ -223,11 +223,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 ---------------------------------------------------------------
 
-#EXTINF:0 tvg-id="ext" group-title="HIBURAN",TRANS 7 (DETIK)
+#EXTINF:0 tvg-id="ext" group-title="HIBURAN",TRANS 7 DETIK.COM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="HIBURAN",TRANS TV (DETIK)
+#EXTINF:0 tvg-id="ext" group-title="HIBURAN",TRANS TV DETIK.COM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
