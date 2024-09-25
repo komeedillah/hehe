@@ -137,6 +137,23 @@ https://streaming.indihometv.com/atm/DASH/tv9/manifest.mpd
 =========================================== HIBURAN ===========================================
 ===============================================================================================
 
+#EXTINF:-1 group-title="HIBURAN" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png", YOUTUBE METRO TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ythls.kekikakademi.org/youtube/video/nfgnpM28xDA.m3u8
+
+#EXTINF:-1 group-title="HIBURAN" tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",YOUTUBE KOMPAS TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ythls.kekikakademi.org/youtube/video/DOOrIxw5xOw.m3u8
+
+#EXTINF:-1 group-title="HIBURAN" tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",YOUTUBE NET
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ythls.kekikakademi.org/youtube/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="HIBURAN", YOUTUBE TVONE
+https://ythls.kekikakademi.org/youtube/video/yNKvkPJl-tg.m3u8
+
+---------------------------------------------------------------
+
 #EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png" group-title="HIBURAN",CBEEBIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
