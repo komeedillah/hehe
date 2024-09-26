@@ -1540,3 +1540,11 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT",OPTUS SPORT LIVE 6
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
+
+---------------------------------------------------------------
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIVE EVENT",LIVE INDOSIAR
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="LIVE EVENT",LIVE SCTV
+http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
