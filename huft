@@ -1208,6 +1208,9 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="SPORTS", OPTUS SPORT
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
+
 ==================================================================================================
 =========================================== NASIONAL HD ==========================================
 ==================================================================================================
@@ -1482,26 +1485,6 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd
-
----------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="LIVE EVENT", OPTUS SPORT LIVE 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT",OPTUS SPORT LIVE 1
-#http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT",OPTUS SPORT LIVE  3
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT",OPTUS SPORT LIVE 4
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT",OPTUS SPORT LIVE 5
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT",OPTUS SPORT LIVE 6
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
 
 ---------------------------------------------------------------
 
