@@ -1118,14 +1118,6 @@ https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="SPORTS", SPORT TV 1
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/165647.m3u8
-
-#EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="SPORTS", SPORT TV 3
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/165649.m3u8
-
----------------------------------------------------------------
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pf4SxjC/knbc.png" group-title="SPORTS" ,NBC 4 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
