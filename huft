@@ -201,6 +201,18 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeo
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="HIBURAN",VISION PRIME
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="OK TV - [Channel 95].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="HIBURAN",FOOD TRAVEL
+https://d1abp075u76pbq.cloudfront.net/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="HIBURAN",MY KIDZ
+https://cempedak-cdn-fly.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
