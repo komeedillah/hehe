@@ -552,9 +552,9 @@ https://chiva.my.id/sc/avid/play.mpd?id=17761&type=dash
 ---------------------------------------------------------------
 
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SPORTS ASIA",TVRI SPORT DENS
-http://rr3.dens.tv/s/s107/index.m3u8
+#http://rr3.dens.tv/s/s107/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI SPORT DIGITAL
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI SPORT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
@@ -732,6 +732,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOW PRIME
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-id="wowowcinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOW CINEMA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 
 ==============================================================================================
 =========================================== SPORTS ===========================================
