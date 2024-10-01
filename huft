@@ -568,10 +568,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS ASIA",LIVE INDOSIAR
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="SPORTS ASIA",LIVE SCTV
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="SPORTS ASIA",LIVE SPORTS SCTV
 http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -579,7 +579,7 @@ http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="SPORTS ASIA",LIVE MOJI
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="SPORTS ASIA",LIVE SPORTS MOJI
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
 
 ---------------------------------------------------------------
