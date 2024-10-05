@@ -679,18 +679,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 xui-id="332" tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkYKhxv6at-8lx_sw6WoLLow.png" group-title="SPORTS ASIA",ASTRO SUPERSPORT
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnKbADT1tg1Ya5TKJwG77qk
-
-#EXTINF:-1 xui-id="333" tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCRqtsweGESLsr699PBBhmA.png" group-title="SPORTS ASIA",ASTRO SUPERSPORT 2
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILvezz8u8v8se_Fpjcysvv1w
-
-#EXTINF:-1 xui-id="334" tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkXdxhInPtNn3K3Fy4LaGF9Q.png" group-title="SPORTS ASIA",ASTRO SUPERSPORT 3
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILuGZAEsgzu37rkSFsI_-Nc8
-
-#EXTINF:-1 xui-id="335" tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkqfWwdF68b82nxuLx1p2sAA.png" group-title="SPORTS ASIA",ASTRO SUPERSPORT 4
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILrHgghTMOPPeHcY7Pd1D8tU
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="SPORTS ASIA",BEIN SPORTS MALAYSIA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1004,7 +992,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="SPORTS",SKY SPORTS FOOTBALL
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97139&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97139&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1014,7 +1002,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.pngfind.com/pngs/m/104-1042921_detroit-lions-vs-new-york-jets-sky-sports.png" group-title="SPORTS",SKY SPORTS MAIN EVENT
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97136&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97136&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1024,7 +1012,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
 #EXTINF:-1 #EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97137&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=97137&extension=ts
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="SPORTS",PREMIER LEAGUE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
