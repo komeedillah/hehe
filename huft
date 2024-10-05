@@ -543,13 +543,6 @@ http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 group-title="SPORTS ASIA" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",SUKAN RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title="SPORTS ASIA", UNIFI SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Logo_SSC1HD/original/Logo_SSC1HD.png?height=auto&width=288&croppingPoint=&version=1&type=png" ,SSC 1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -669,6 +662,21 @@ http://202.62.56.28:8080/nl.m3u8?id=1093
 https://cdnssc.wewatch.asia/b3A9WTJsa1BURkZRemxDUkVKRk5VVkdSalE0T1VRNE56RkdOa0kxTURoRVFqWkVNMFU1Sm5OMFBXeHBkbVVtYzNSNVBXUmhjMmclM2QmdG9rPTY5N2JlNDgxNWVjYjY3NmYwYTY5NmUzYzc2YTFkYjNlNmEwOWM2MjgmZGV2aWQ9ZGNmYWVmYTczYTYzOGRmYTJjY2RjNjNlZjc1MmU1Yzc%3D/auto_h264.mpd
 
 ---------------------------------------------------------------
+
+#EXTINF:-1 group-title="SPORTS ASIA" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title="SPORTS ASIA", UNIFI SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 xui-id="332" tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkYKhxv6at-8lx_sw6WoLLow.png" group-title="SPORTS ASIA",ASTRO SUPERSPORT 1
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnKbADT1tg1Ya5TKJwG77qk
+#EXTINF:-1 xui-id="333" tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCRqtsweGESLsr699PBBhmA.png" group-title="SPORTS ASIA",ASTRO SUPERSPORT 2
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILvezz8u8v8se_Fpjcysvv1w
+#EXTINF:-1 xui-id="334" tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkXdxhInPtNn3K3Fy4LaGF9Q.png" group-title="SPORTS ASIA",ASTRO SUPERSPORT 3
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILuGZAEsgzu37rkSFsI_-Nc8
+#EXTINF:-1 xui-id="335" tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkqfWwdF68b82nxuLx1p2sAA.png" group-title="SPORTS ASIA",ASTRO SUPERSPORT 4
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="SPORTS ASIA",BEIN SPORTS MALAYSIA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
