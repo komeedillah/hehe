@@ -1718,9 +1718,6 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP15/GO3_LIVE_DASH_AVC/VIP15.mpd
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="LIVE EVENT",BACKUP ASTRO SUPERSPORT
-http://103.156.141.151:4567/stream/channelid/1140724126?profile=pass
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="LIVE EVENT",BACKUP ASTRO SUPERSPORT 2
 http://103.156.141.151:4567/stream/channelid/102544476?profile=pass
 
