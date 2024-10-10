@@ -1710,11 +1710,11 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP15/GO3_LIVE_DASH_AVC/VIP15.mpd
 
 ---------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="LIVE EVENT",BACKUP ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="LIVE EVENT",ASSP 2 SERVER1
 http://103.156.141.151:4567/stream/channelid/102544476?profile=pass
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="LIVE EVENT",BACKUP ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="LIVE EVENT",ASSP 3 SERVER1
 http://103.156.141.151:4567/stream/channelid/1439999769?profile=pass
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="LIVE EVENT",BACKUP ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SUPER SPORT 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s" group-title="LIVE EVENT",ASSP 4 SERVER1
 http://103.156.141.151:4567/stream/channelid/183208213?profile=pass
