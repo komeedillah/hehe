@@ -546,9 +546,6 @@ http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-pptv.png" group-title="SPORTS ASIA",PPTV 36
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T SPORTS 7" tvg-logo="https://iptv36.my.to/logo/tsports.png" group-title="SPORTS ASIA",T SPORTS 7
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_CNC_TV.png" group-title="SPORTS ASIA",CNC
 http://202.62.56.28:8080/nl.m3u8?id=1086
