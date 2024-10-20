@@ -1318,11 +1318,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/47DLDyK/1-inews-tv.png" group-title="Shareext@LOKAL_ID", INEWS+ SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47DLDyK/1-inews-tv.png" group-title="NASIONAL HD", INEWS+ SD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-inews.rctiplus.id/inews-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VHVBwhJ/MNCTV.png" group-title="Shareext@LOKAL_ID", MNC TV+ SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHVBwhJ/MNCTV.png" group-title="NASIONAL HD", MNC TV+ SD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
