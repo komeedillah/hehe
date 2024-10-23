@@ -230,13 +230,7 @@ https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 #https://streaming.indihometv.com/atm/DASH/tv9/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/747/476/png-clipart-tv9-nusantara-television-channel-streaming-media-others-miscellaneous-television.png" tvg-name="TV9" group-title="HIBURAN",TV9 NUSANTARA
-#https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-m.png" group-title="HIBURAN",TV9 NUSANTARA
-https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 
 ---------------------------------------------------------------
 
