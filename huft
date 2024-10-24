@@ -595,12 +595,6 @@ http://vo01.mohdtv.com:8880/voby1872/17497519/59218
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS ASIA", ASTRO FOOTBALL
 http://vo01.mohdtv.com:8880/voby1872/17497519/59217
 
-#EXTINF:-1  group-title="SPORTS ASIA" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",ASTRO ARENA BOLA
-https://zozotv.xyz:443/live/lisshomestay/@1212/791.ts
-
-#EXTINF:-1  group-title="SPORTS ASIA" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png",ASTRO ARENA BOLA 2
-https://zozotv.xyz:443/live/lisshomestay/@1212/792.ts
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SPORTS ASIA" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV 22
