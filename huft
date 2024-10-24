@@ -436,7 +436,7 @@ https://wumbodumbo.serv00.net/red/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=9182&type=drm
 https://wumbodumbo.serv00.net/red/play.mpd?id=9182&type=dash
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="Sports",CHAMPIONS 6
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="SPORTS ASIA",CHAMPIONS 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
