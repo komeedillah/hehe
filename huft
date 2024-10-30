@@ -754,25 +754,25 @@ https://webhdrunns.mizhls.ru/lb/premium427/index.m3u8|referer=https://lewblivehd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="SPORTS",DAZN SPORTS BELGIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-050/stream.mpd
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-050/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="SPORTS",DAZN SPORTS ENGLAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-045/stream.mpd
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-045/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="SPORTS",DAZN SPORTS ITALY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd
 
 #EXTINF:-1 xui-id="149" tvg-id="" tvg-name="Play Sports 1" tvg-logo="https://i.ibb.co.com/WvzsMyr/image.png" group-title="SPORTS",PLAYSPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
