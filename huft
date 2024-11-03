@@ -1058,8 +1058,19 @@ https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 
 ---------------------------------------------------------------
 
+#EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="SPORTS",L'ÉQUIPE FRANCE
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8
+
 #EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="SPORTS",L'ÉQUIPE LIVE FOOT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
+
+#EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="SPORTS",L'ÉQUIPE LIVE 1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
+
+#EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="SPORTS",L'ÉQUIPE LIVE 2
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive2.m3u8
+
+---------------------------------------------------------------
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="SPORTS",M4 SPORT HUNGARIAN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
