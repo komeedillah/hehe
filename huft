@@ -400,6 +400,18 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="SPORTS ASIA" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", BEIN SPORTS INDONESIA 5
 #https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZY2cbSj/SPOTV.png" group-title="SPORTS ASIA", SPOTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Bb0rqM/SPOTV2.png" group-title="SPORTS ASIA", SPOTV 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
 ---------------------------------------------------------------
 
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SPORTS ASIA",TVRI SPORT
