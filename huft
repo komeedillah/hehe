@@ -485,8 +485,14 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34323
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", LIVE SPORTS RCTI
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
 
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SPORTS ASIA", LIVE SPORTS  MNC TV
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34326
+
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", LIVE SPORTS GTV
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34331
+
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SPORTS ASIA", LIVE SPORTS TRANS 7
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
 
 ---------------------------------------------------------------
 
