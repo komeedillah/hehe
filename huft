@@ -424,6 +424,9 @@ http://rr3.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="SPORTS ASIA",LIVE SPORTS MOJI
 http://opplex.tv:8080/3116580700/0700/350997
 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS ASIA", LIVE SPORTS INDOSIAR
+http://iptvtree.net:8080/live/9a9c2e24/d3850543/162138.ts
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
