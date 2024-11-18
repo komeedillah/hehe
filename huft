@@ -226,11 +226,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="HIBURAN",JTV
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="HIBIRAN",TV9 NUSANTARA
-#https://streaming.indihometv.com/atm/DASH/tv9/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/747/476/png-clipart-tv9-nusantara-television-channel-streaming-media-others-miscellaneous-television.png" tvg-name="TV9" group-title="HIBURAN",TV9 NUSANTARA
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
+#EXTINF:-1 group-title="HIBURAN"  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9 NUSANTARA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -306,7 +305,6 @@ https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://iptv.urfan.id/logo/tvridaerah.png",TVRI JAWA TIMUR
 #EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/800px-TVKU-BChannel.png" group-title="HIBURAN", TVKU
 http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net
