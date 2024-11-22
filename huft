@@ -492,16 +492,26 @@ http://rr3.dens.tv/s/s107/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="SPORTS ASIA",LIVE SPORTS MOJI
-http://opplex.tv:8080/3116580700/0700/350997
+#http://opplex.tv:8080/3116580700/0700/350997
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR
-http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
+#http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
 
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SPORTS ASIA", LIVE SPORTS SCTV
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34323
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", LIVE SPORTS RCTI
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.mpd?id=205
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="SPORTS ASIA", LIVE SPORTS MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://kametv.my.id/pdx/play.m3u8?id=206&type=hls
 
 ---------------------------------------------------------------
 
