@@ -492,12 +492,6 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR
 #http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
 
-#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SPORTS ASIA", LIVE SPORTS SCTV
-#http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34323
-
-#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", LIVE SPORTS RCTI
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
-
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS ASIA", LIVE SPORTS INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
