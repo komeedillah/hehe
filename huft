@@ -682,6 +682,11 @@ https://kametv.my.id/pdx/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583
 https://kametv.my.id/pdx/play.mpd?id=6686&type=dash
 
+#EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CHAMPIONS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+https://kametv.my.id/pdx/play.mpd?id=6786&type=dash
+
 #EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="SPORTS ASIA",CHAMPIONS 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
