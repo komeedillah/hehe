@@ -476,9 +476,6 @@ http://rr3.dens.tv/s/s107/index.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="SPORTS ASIA",LIVE SPORTS MOJI
-http://opplex.tv:8080/3116580700/0700/350997
-
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR
 http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
 
@@ -632,6 +629,8 @@ http://202.62.56.28:8080/nl.m3u8?id=1066
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-logo="https://i.imgur.com/RUuK4yQ.png", CCTV 5+
 http://202.62.56.28:8080/nl.m3u8?id=1064
 
+---------------------------------------------------------------
+
 #EXTINF:-1  group-title="SPORTS ASIA" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",MEDIACORP LIVE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
@@ -641,6 +640,16 @@ https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
 https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+
+#EXTINF:-1  group-title="SPORTS ASIA" tvg-logo="https://i.ibb.co.com/J7nxg09/mwspl01.png",SIBGAPORE PREMIER LEAGUE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#EXTINF:-1  group-title="SPORTS ASIA" tvg-logo="https://i.ibb.co.com/vHM6GF8/mwspl02.png",SINGAPORE PREMIER LEAGUE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 ---------------------------------------------------------------
 
