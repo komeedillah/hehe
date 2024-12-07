@@ -476,8 +476,14 @@ http://rr3.dens.tv/s/s107/index.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR SD
 http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="SPORTS ASIA",LIVE SPORTS INDOSIAR HD
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="SPORTS ASIA",LIVE SPORTS SCTV
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
 
 ---------------------------------------------------------------
 
