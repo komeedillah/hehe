@@ -582,13 +582,13 @@ http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/13-400_import.png" group-title="SPORTS ASIA",MYTV
 #http://202.62.56.28:8080/nl.m3u8?id=1093
 
-#EXTINF:-1 tvg-id="SPORTS ASIA",CTN
+#EXTINF:-1 group-title="SPORTS ASIA",CTN
 http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SPORTS ASIA",CNC
+#EXTINF:-1 group-title="SPORTS ASIA",CNC
 http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SPORTS ASIA",MYTV
+#EXTINF:-1 group-title="SPORTS ASIA",MYTV
 http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 
 ---------------------------------------------------------------
