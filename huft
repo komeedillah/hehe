@@ -488,12 +488,6 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="SPORTS ASIA",LIVE SPORTS RCTI
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="SPORTS ASIA",LIVE SPORTS MNC TV
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
-
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="SPORTS ASIA",LIVE SPORTS GTV
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
-
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
