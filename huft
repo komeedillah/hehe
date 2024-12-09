@@ -500,6 +500,9 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="SPORTS ASIA",LIVE SPORTS RCTI
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
 
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="SPORTS ASIA",LIVE SPORTS GTV
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
+
 ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPORTS ASIA" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
@@ -716,6 +719,15 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg"  group-title="SPORTS ASIA",TURKMEN SPORT
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",TAP SPORTS
+http://xtv.ooo:8080/sanushop/12345678/384017
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",ONE SPORTS
+http://xtv.ooo:8080/sanushop/12345678/384009
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SPORTS ASIA",ONE SPORTS+
+http://xtv.ooo:8080/sanushop/12345678/352626
 ---------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800" group-title="SPORTS ASIA",CHAMPIONS 1
