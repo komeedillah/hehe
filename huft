@@ -245,11 +245,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 group-title="HIBURAN" tvg-id="seruchannel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/SERU_Channel.png/revision/latest?cb=20210109115646",SERU CHANNEL
 https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Musik Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="HIBURAN",MUSIK INDONESIA
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-MusikIndonesia.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="HIBURAN",JTV
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 
@@ -375,9 +370,6 @@ https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1  group-title="HIBURAN" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV 9 RTM
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
-
-#EXTINF:-1  group-title="HIBURAN" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS SARAWAK
-https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/awesome.png" group-title="HIBURAN", AWESOME TV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1550
